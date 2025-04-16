@@ -1,5 +1,8 @@
 # 🤖 ClasSmart—灵分
 
+**提示 : 此仓库不含有任何源代码文件，仅用于存放项目文档，如有需要请访问对应项目仓库，仓库地址见下文**  
+## 🗂 源代码仓库 | Source Code Repositories
+
 *点击对应模块名称可查看对应项目仓库*
 - [前端](https://github.com/KamikazEr101/ClasSmart_frontend) 
 - [java 后端](https://github.com/KamikazEr101/ClasSmart_backend_java) 
