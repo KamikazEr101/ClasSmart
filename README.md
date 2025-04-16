@@ -8,9 +8,7 @@
 
 ## 🌐 一套代码，多端适配 | Multiple Endpoints
 
-[](./assets/appshow_ap.png)
-[](./assets/appshow_pc.png)
-
+![](./assets/appshow_ap.png)
 
 
 ## 🚀 使用方法 | Usage Method
