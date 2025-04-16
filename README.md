@@ -8,7 +8,8 @@
 
 ## 🌐 一套代码，多端适配 | Multiple Endpoints
 
-
+[](./assets/appshow_ap.png)
+[](./assets/appshow_pc.png)
 
 
 
