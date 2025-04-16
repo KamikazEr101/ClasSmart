@@ -1,5 +1,9 @@
 # 🤖 ClasSmart—灵分
 
+<img src="./assets/favicon.ico" style="zoom:40%; align:center; margin: auto ; display: block;" />  
+
+# 
+
 **提示 : 此仓库不含有任何源代码文件，仅用于存放项目文档，如有需要请访问对应项目仓库，仓库地址见下文**  
 ## 🗂 源代码仓库 | Source Code Repositories
 
