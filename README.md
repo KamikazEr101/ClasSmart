@@ -13,7 +13,7 @@
 
 ## 🚀 使用方法 | Usage Method
 
-1. **浏览器输入 `baidu.com`**
+1. **浏览器输入前端地址**
 
 2. **传入待分类图片**
 
@@ -33,7 +33,7 @@
 | 模块       | 技术/组件 |
 | ---------- | --------- |
 | [前端](https://github.com/KamikazEr101/ClasSmart_frontend) | `React` |
-| [java 后端](https://github.com/KamikazEr101/ClasSmart_backend_java) | `SpringBoot`、`Mybatis`、`Redis` |
+| [java 后端](https://github.com/KamikazEr101/ClasSmart_backend_java) | `SpringBoot`、`SpringMVC`、`Mybatis`、`Redis`、 `Minio` |
 | [python 后端](https://github.com/Ying-Luan/ClasSmart_backend_python) | `Pytorch`、`Autogen`、`FastAPI` |
 
 
