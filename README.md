@@ -1,5 +1,10 @@
 # 🤖 ClasSmart—灵分
 
+*点击对应模块名称可查看对应项目仓库*
+- [前端](https://github.com/KamikazEr101/ClasSmart_frontend) 
+- [java 后端](https://github.com/KamikazEr101/ClasSmart_backend_java) 
+- [python 后端](https://github.com/Ying-Luan/ClasSmart_backend_python) 
+
 ## 📚 简介 | Introduction
 
 `ClasSmart—灵分`是一款智能垃圾分类系统。  
