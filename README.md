@@ -25,17 +25,17 @@
 | **智能鉴别具体垃圾类型**                                     |
 | 采用 `Autogen` 智能体**智能识别恶意图片**，防止污染数据库与模型 |
 | **定时**将用户传入图片与反馈打包为数据集，进行 `Pytorch` 模型**复训练** |
-| 使用 `Redis` **分布式锁**，支持**多实例单数据源**分布式部署  |
+| 使用 `Redis` **分布式锁**，支持**多实例单数据源**分布式部署    |
 | 采用 `Redis` 的**分布式限流策略**，总体使用**令牌桶算法**限流，并对**独立IP**实施**黑名单**策略 |
-| 前端使用 `React` 框架，优化**首屏加载**与**SEO**             |
+| 前端使用 `React` 框架，优化**首屏加载**与**SEO**               |
 
 ## 🛠️ 涉及技术栈 | Tech Stack
 
-| 模块                          | 技术/组件                        |
-| ----------------------------- | -------------------------------- |
-| [前端](https://www.baidu.com) | `React`                          |
-| java 后端                     | `SpringBoot`、`Mybatis`、`Redis` |
-| python 后端                   | `Pytorch`、`Autogen`、`FastAPI`  |
+| 模块       | 技术/组件 |
+| ---------- | --------- |
+| [前端](https://github.com/KamikazEr101/ClasSmart_frontend) | `React` |
+| [java 后端](https://github.com/KamikazEr101/ClasSmart_backend_java) | `SpringBoot`、`Mybatis`、`Redis` |
+| [python 后端](https://github.com/Ying-Luan/ClasSmart_backend_python) | `Pytorch`、`Autogen`、`FastAPI` |
 
 
 
@@ -56,4 +56,3 @@
 
 
 ## 📈 趋势 | Trend
-
