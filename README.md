@@ -8,7 +8,7 @@
 
 ## 🌐 一套代码，多端适配 | Multiple Endpoints
 
-![](./assets/appshow_ap.png)
+<img src="./assets/appshow_ap.png" style="zoom:40%;" />
 
 
 ## 🚀 使用方法 | Usage Method
