@@ -1,6 +1,6 @@
 # 🤖 ClasSmart—灵分
 
-<img src="./assets/favicon.ico" style="zoom:40%; align:center; margin: auto ; display: block;" />  
+<img src="./assets/favicon.ico" style="zoom:30%; align:center; margin: auto ; display: block;" />  
 
 # 
 
